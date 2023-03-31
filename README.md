@@ -1,4 +1,4 @@
-<p align = "center"><img src = "https://media4.giphy.com/media/0aOas3u8oCy6QspChc/giphy.gif?cid=ecf05e4719ld6kjg9xoairw9m4ko9c197lk54dlf5nobmunk&rid=giphy.gif&ct=g" width = "800"></p>
+<p align = "center"><img src = "https://media4.giphy.com/media/0aOas3u8oCy6QspChc/giphy.gif?cid=ecf05e4719ld6kjg9xoairw9m4ko9c197lk54dlf5nobmunk&rid=giphy.gif&ct=g" width = "750"></p>
 
 # <p align = "center">✨ Olá, sou Aline Bevilacqua, Desenvolvedora Front-end! <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg0ZWU5M2JlNWM1NzQ1ZTcxODEyMzlhZTkwODc3M2VjOGZlYzE1NyZjdD1z/WK2RKTHwsD9NS/giphy.gif" width = "40"></p>
 
@@ -25,11 +25,9 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="70">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical" alt = "aliine98" /></p>
 
-<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=aliine98&theme=default&theme=radical" alt = "aliine98" /></p>
-
-<p><img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical" alt = "aliine98" /></p>
+<p align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aliine98&theme=default&theme=radical" alt = "aliine98" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical" alt="aliine98" /></a> </p>
 
