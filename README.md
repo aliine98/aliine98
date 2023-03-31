@@ -36,4 +36,4 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
 <p align = "center"><img src = "https://media4.giphy.com/media/jp74BJUjo1aifN1Rtn/giphy.gif?cid=ecf05e47kau4k3us5927t48mqlbqy35pxvq252k34i4x038g&rid=giphy.gif&ct=g" width = "600"></p>
 
 
-![Snake animation](https://github.com/Aliine98/Aliine98/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aliine98/blob/output/github-contribution-grid-snake.svg)
