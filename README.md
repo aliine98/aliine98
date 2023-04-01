@@ -8,7 +8,7 @@
 
 <img src = "https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" align = "right">
 
-Sou uma pessoa curiosa, determinada e esforçada (apesar de um pouquinho medrosa também, haha).
+Sou uma pessoa curiosa, determinada e esforçada (e um pouquinho tímida também, haha).
 
 Me apaixonei pela programação por estimular a criatividade, adoro como posso resolver uma coisa de várias maneiras diferentes! Tenho conhecimento principalmente em HTML, CSS e Javascript.
 
