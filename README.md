@@ -2,8 +2,12 @@
 
 # <p align = "center">✨ Olá, sou Aline Bevilacqua, Desenvolvedora Front-end! <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg0ZWU5M2JlNWM1NzQ1ZTcxODEyMzlhZTkwODc3M2VjOGZlYzE1NyZjdD1z/WK2RKTHwsD9NS/giphy.gif" width = "40"></p>
 
-<p align = "center"><a href="https://www.linkedin.com/in/aline-bevilacqua/"><img align="center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<img align="center" src="https://img.shields.io/github/followers/Aliine98?style=social">
+<p align = "center">
+    <a href="https://www.linkedin.com/in/aline-bevilacqua/">
+        <img alt="Linkedin link" align="center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <img alt="Discord tag" align="center" src="https://img.shields.io/badge/-!Aline%237582-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="27">
+    <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=social" height="22">
 </p>
 
 <img src = "https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" align = "right">
