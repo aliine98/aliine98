@@ -8,18 +8,18 @@
     </a>
     <img alt="Discord tag" align="center" src="https://img.shields.io/badge/-!Aline%237582-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="27">
     <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=social" height="22">
-</p>
+</p><br>
 
 <img src = "https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" align = "right">
 
 Sou uma pessoa curiosa, determinada e esforçada (e um pouquinho tímida também, haha).
 
 Me apaixonei pela programação por estimular a criatividade, adoro como posso resolver uma coisa de várias maneiras diferentes! Tenho conhecimento principalmente em HTML, CSS e Javascript.
-
 Estudei por conta própria inglês (nível intermediário) e um pouco de desenho de observação e estilo mangá.
 
 Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livestreams, ler mangás e desenhar.
-<br>
+
+<br><br>
 
 ## 🚀💻 Skills <img src="https://media.tenor.com/Yg2RAGpzHK0AAAAj/pokemon-umbreon.gif" width="55">
 
@@ -39,11 +39,11 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
 
 <p align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aliine98&theme=default&theme=radical" alt = "aliine98" /></p>
 
-<picture>
+<div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake.svg">
-</picture>
+</picture></div>
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical" alt="aliine98" /></a> </p>
 
