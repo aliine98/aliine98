@@ -1,9 +1,9 @@
 <p align = "center"><img src = "https://media4.giphy.com/media/0aOas3u8oCy6QspChc/giphy.gif?cid=ecf05e4719ld6kjg9xoairw9m4ko9c197lk54dlf5nobmunk&rid=giphy.gif&ct=g" width = "750"></p>
 
-# <p align = "center"><a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=102&color=980DE6&vCenter=true&width=480&lines=%E2%9C%A8+Ol%C3%A1%2C+sou+Aline+Bevilacqua%2C;%E2%9C%A8+Desenvolvedora+Front-end!" alt="Typing SVG" /></a> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg0ZWU5M2JlNWM1NzQ1ZTcxODEyMzlhZTkwODc3M2VjOGZlYzE1NyZjdD1z/WK2RKTHwsD9NS/giphy.gif" width = "40"></p>
+# <p align = "center"><a href="https://readme-typing-svg.demolab.com/demo/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=102&color=980DE6&vCenter=true&width=480&lines=%E2%9C%A8+Ol%C3%A1%2C+sou+Aline+Bevilacqua%2C;%E2%9C%A8+Desenvolvedora+Front-end!" alt="Typing SVG" /></a> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg0ZWU5M2JlNWM1NzQ1ZTcxODEyMzlhZTkwODc3M2VjOGZlYzE1NyZjdD1z/WK2RKTHwsD9NS/giphy.gif" width = "40"></p>
 
 <p align = "center">
-    <a href="https://www.linkedin.com/in/aline-bevilacqua/">
+    <a href="https://www.linkedin.com/in/aline-bevilacqua/" target="_blank">
         <img alt="Linkedin link" align="center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <img alt="Discord tag" align="center" src="https://img.shields.io/badge/-!Aline%237582-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="27">
@@ -45,6 +45,6 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake.svg">
 </picture></div>
 <br><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical" alt="aliine98" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical" alt="aliine98" /></a> </p>
 
 <p align = "center"><img src = "https://media4.giphy.com/media/jp74BJUjo1aifN1Rtn/giphy.gif?cid=ecf05e47kau4k3us5927t48mqlbqy35pxvq252k34i4x038g&rid=giphy.gif&ct=g" width = "600"></p>
