@@ -6,8 +6,16 @@
     <a href="https://www.linkedin.com/in/aline-bevilacqua/" target="_blank">
         <img alt="Linkedin link" align="center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <img alt="Discord tag" align="center" src="https://img.shields.io/badge/-!Aline%237582-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="27">
-    <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=social" height="22">
+    <a href="https://www.instagram.com/aliine3009/" target="_blank">
+        <img alt="Instagram link" align="center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://discord.com/" target="_blank">
+        <img alt="Discord tag: !Aline#7582" align="center" src="https://img.shields.io/badge/-!Aline%237582-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="27.5">
+    </a>
+    <a href="https://myanimelist.net/profile/AyumiiK" target="_blank">
+        <img alt="My Anime List profile link" align="center" src = "https://img.shields.io/static/v1?style=for-the-badge&message=MyAnimeList&color=2E51A2&logo=MyAnimeList&logoColor=FFFFFF&label=">
+    </a>
+    <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=for-the-badge&color=bf0f47&logo=github&logoColor=white">
 </p><br>
 
 <img src = "https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" align = "right">
