@@ -8,7 +8,7 @@
         <img alt="Instagram link" align="center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://discord.com/" target="_blank">
-        <img alt="Discord tag: !Aline#7582" align="center" src="https://img.shields.io/badge/-!Aline%237582-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="27.5">
+        <img alt="Discord tag: aliine_b" align="center" src="https://img.shields.io/badge/-aliine__b-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="28">
     </a>
     <a href="https://myanimelist.net/profile/AyumiiK" target="_blank">
         <img alt="My Anime List profile link" align="center" src = "https://img.shields.io/static/v1?style=for-the-badge&message=MyAnimeList&color=2E51A2&logo=MyAnimeList&logoColor=FFFFFF&label=">
