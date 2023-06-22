@@ -17,7 +17,7 @@
     <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=for-the-badge&color=bf0f47&logo=github&logoColor=white">
 </p><br>
 
-<img src = "https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" align = "right">
+<div align="center">
 
 Sou uma pessoa curiosa, determinada e esforçada (e um pouquinho tímida também, haha).
 
@@ -25,10 +25,11 @@ Me apaixonei pela programação por estimular a criatividade, adoro como posso r
 Estudei por conta própria inglês (nível intermediário) e um pouco de desenho de observação e estilo mangá.
 
 Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livestreams, ler mangás e desenhar.
+</div>
 
 <br><br>
 
-## 🚀💻 Skills <img src="https://media.tenor.com/Yg2RAGpzHK0AAAAj/pokemon-umbreon.gif" width="55">
+## 🚀💻 Skills <img src="https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" width="55">
 
 <br>
 <p align = "center"><code> <a href = "https://www.w3schools.com/css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "60"/>&nbsp;&nbsp; </a> <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "60"/> </a>&nbsp;&nbsp; <a href = "https://www.w3.org/html/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "60" />&nbsp;&nbsp; </a> <a href = "https://www.java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "60" /> </a>&nbsp;&nbsp; <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "60" /> </a> &nbsp;&nbsp;<a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "60" /> </a>&nbsp;&nbsp; <a href = "https://www.typescriptlang.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typescript" width = "60" /> </a> </code></p>
@@ -52,6 +53,6 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake.svg">
 </picture></div>
 <br><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical" alt="aliine98" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical&column=4" alt="aliine98" /></a> </p>
 
 <p align = "center"><img src = "https://media4.giphy.com/media/jp74BJUjo1aifN1Rtn/giphy.gif?cid=ecf05e47kau4k3us5927t48mqlbqy35pxvq252k34i4x038g&rid=giphy.gif&ct=g" width = "600"></p>
