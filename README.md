@@ -29,7 +29,56 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
 ## 🚀💻 Skills <img src="https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" width="55">
 
 <br>
-<p align = "center"><code> <a href = "https://www.w3schools.com/css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "60"/>&nbsp;&nbsp; </a> <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "60"/> </a>&nbsp;&nbsp; <a href = "https://www.w3.org/html/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "60" />&nbsp;&nbsp; </a> <a href = "https://www.java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "60" /> </a>&nbsp;&nbsp; <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "60" /> </a> &nbsp;&nbsp;<a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "60" /> </a>&nbsp;&nbsp; <a href = "https://www.typescriptlang.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typescript" width = "60" /> </a> </code></p>
+<div align = "center">
+    <table>
+        <tr align="center">
+            <td>
+                <a href = "https://www.w3schools.com/css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "60"/></a>
+            </td>
+            <td>
+                <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "60"/> </a>
+            </td>
+            <td>
+                 <a href = "https://www.w3.org/html/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "60" /> </a>
+            </td>
+            <td>
+                <a href = "https://www.java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "60" /> </a>
+            </td>
+            <td>
+                <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "60" /> </a>
+            </td>
+            <td>
+                <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "60" /> </a>
+            </td>
+            <td>
+                <a href = "https://www.typescriptlang.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typescript" width = "60" /> </a> 
+            </td>
+        </tr>
+        <tr align="center">
+            <td>
+                <strong>CSS</strong>
+            </td>
+            <td>
+                <strong>Git</strong>
+            </td>
+            <td>
+                <strong>HTML</strong>
+            </td>
+            <td>
+                <strong>Java</strong>
+            </td>
+            <td>
+                <strong>Javascript</strong>
+            </td>
+            <td>
+                <strong>MySQL</strong>
+            </td>
+            <td>
+                <strong>TypeScript</strong>
+            </td>
+        </tr>
+    </table>
+</div>
 <br><br>
 
 ### <p align = "center"> Interesse </p>
