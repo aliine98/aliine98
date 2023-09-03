@@ -93,7 +93,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical" alt = "aliine98" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical&hide=scss" alt = "aliine98" /></p>
 
 <p align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aliine98&theme=default&theme=radical" alt = "aliine98" /></p>
 
