@@ -92,6 +92,81 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
  <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2046%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 17.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 225 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+🌆 Daytime                158 commits         ██████████░░░░░░░░░░░░░░░   38.92 % 
+🌃 Evening                110 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+🌙 Night                  137 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Tuesday                  79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Wednesday                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Thursday                 72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+HTML                     9 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.28 % 
+CSS                      6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
+JavaScript               3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 43 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ElasNaTech-atividades    19 hrs 43 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  19 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+CSS                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/aliine98/aliine98/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/09/2023 19:33:42 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
