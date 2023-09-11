@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    # Runs every 24 hours
     - cron: "0 */24 * * *"
   workflow_dispatch:
 jobs:
