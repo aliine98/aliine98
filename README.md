@@ -92,64 +92,64 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
  <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2046%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-5-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-58.3%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Meus dados no GitHub** 
 
-> 📦 17.2 kB Used in GitHub's Storage 
+> 📦 17.2 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 225 Contributions in the Year 2023
+> 🏆 227 Contribuições no ano de 2023
  > 
-> 💼 Opted to Hire
+> 💼 Aberto para contratação
  > 
-> 📜 21 Public Repositories 
+> 📜 21 Repositórios Públicos 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 2 Repositórios Privados 
  > 
-**I'm a Night 🦉** 
+**Eu sou noturno 🦉** 
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-🌆 Daytime                158 commits         ██████████░░░░░░░░░░░░░░░   38.92 % 
-🌃 Evening                110 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-🌙 Night                  137 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌞 Manhã                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+🌆 Tarde                  160 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌃 Noite                  110 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+🌙 Madrugada              137 commits         ████████░░░░░░░░░░░░░░░░░   33.58 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **Sou mais produtivo em Terça-Feira** 
 
 ```text
-Monday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Tuesday                  79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Wednesday                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Thursday                 72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Friday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Segunda-Feira            50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Terça-Feira              79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Quarta-Feira             21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Quinta-Feira             72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Sexta-Feira              78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Sábado                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Domingo                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
+🕑︎ Fuso horário: America/Sao_Paulo
 
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 HTML                     9 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.28 % 
 CSS                      6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
 JavaScript               3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 
-🔥 Editors: 
+🔥 Editores: 
 VS Code                  19 hrs 43 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
+🐱‍💻 Projetos: 
 ElasNaTech-atividades    19 hrs 43 mins      █████████████████████████   100.00 % 
 
-💻 Operating System: 
+💻 Sistema operacional: 
 Windows                  19 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**Eu geralmente programo em HTML** 
 
 ```text
 HTML                     7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
@@ -161,12 +161,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/aliine98/aliine98/main/assets/bar_graph.png)
-
-
- Last Updated on 11/09/2023 19:33:42 UTC
+ Last Updated on 11/09/2023 19:54:48 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
