@@ -10,7 +10,7 @@
     <a href="https://myanimelist.net/profile/AyumiiK" target="_blank">
         <img alt="My Anime List profile link" align="center" src = "https://img.shields.io/static/v1?style=for-the-badge&message=MyAnimeList&color=2E51A2&logo=MyAnimeList&logoColor=FFFFFF&label=">
     </a>
-    <a href="https://wakatime.com/@d705bdc6-1244-4026-9380-8de8c1599f8d"><img src="https://wakatime.com/badge/user/d705bdc6-1244-4026-9380-8de8c1599f8d.svg?style=for-the-badge" alt="Total time coded since Jun 5 2023" align="center"/></a>
+    <a href="https://wakatime.com/@aliine"><img src="https://wakatime.com/badge/user/d705bdc6-1244-4026-9380-8de8c1599f8d.svg?style=for-the-badge" alt="Total time coded since Jun 5 2023" align="center"/></a>
     <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=for-the-badge&color=bf0f47&logo=github&logoColor=white">
 </p><br>
 
