@@ -71,6 +71,9 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
             <td align="center">
                 <a href = "https://www.typescriptlang.org/" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typescript" width = "50" /> </a> 
             </td>
+            <td align="center">
+                <a href = "https://getbootstrap.com" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "50""/> </a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -82,6 +85,9 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
             <td>
                 <sup><strong>TypeScript</strong></sup>
             </td>
+            <td>
+                <sup><strong>Bootstrap</strong></sup>
+            </td>
         </tr>
     </table>
 </div>
@@ -90,7 +96,17 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
 ### <p align = "center"> Interesse </p>
 
 <br>
-<p  align    = "center"> <code><a href = "https://angular.io" target = "_blank" rel = "noopener"> <img src = "https://angular.io/assets/images/logos/angular/angular.svg" alt = "angular" width = "40" height = "40"/> </a> <a href = "https://getbootstrap.com" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "40" height = "40"/> </a> <a href = "https://flutter.dev" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt = "flutter" width = "40" height = "40"/> </a> <a href = "https://jestjs.io" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt = "jest" width = "40" height = "40"/> </a>  <a href = "https://nextjs.org/" target = "_blank" rel = "noopener"> <img src = "https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt = "nextjs" width = "40" height = "40"/> </a> <a href = "https://vuejs.org/" target = "_blank" rel = "noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width = "40" height = "40"/> </a> <a href = "https://www.python.org" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40"/> </a> <a href = "https://reactjs.org/" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40"/> </a> <a href = "https://redux.js.org" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt = "redux" width = "40" height = "40"/> </a> <a href = "https://tailwindcss.com/" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt = "tailwind" width = "40" height = "40"/></a></code></p>
+<p  align="center"> 
+    <code><a href = "https://angular.io" target = "_blank" rel = "noopener"> <img src = "https://angular.io/assets/images/logos/angular/angular.svg" alt = "angular" width = "40" height = "40"/> </a></code>
+    <code><a href = "https://flutter.dev" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt = "flutter" width = "40" height = "40"/> </a></code> 
+    <code><a href = "https://jestjs.io" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt = "jest" width = "40" height = "40"/> </a></code>
+    <code><a href = "https://nextjs.org/" target = "_blank" rel = "noopener"> <img src = "https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt = "nextjs" width = "40" height = "40"/> </a></code>
+    <code><a href = "https://vuejs.org/" target = "_blank" rel = "noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width = "40" height = "40"/> </a> </code>
+    <code><a href = "https://www.python.org" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40"/> </a> </code>
+    <code><a href = "https://reactjs.org/" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40"/> </a> </code>
+    <code><a href = "https://redux.js.org" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt = "redux" width = "40" height = "40"/> </a> </code>
+    <code><a href = "https://tailwindcss.com/" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt = "tailwind" width = "40" height = "40"/></a></code>
+</p>
  <br><br>
 
 ## 🚀 Wakatime Metrics
