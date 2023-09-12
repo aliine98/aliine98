@@ -161,9 +161,9 @@ Windows                  24 hrs 27 mins      ███████████�
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical&hide=scss" alt = "aliine98" /></p>
+<p align="center"><img src="https://my-github-readme-stats-git-master-aliine98.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src = "https://my-github-readme-stats-git-master-aliine98.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical&hide=scss" alt = "aliine98" /></p>
 
-<p align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aliine98&theme=default&theme=radical" alt = "aliine98" /></p>
+<p align="center"><img src = "https://github-readme-streak-stats-aliine98.vercel.app/?user=aliine98&theme=default&theme=radical" alt = "aliine98" /></p>
 
 <div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake-dark.svg">
