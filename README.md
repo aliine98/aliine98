@@ -46,6 +46,10 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
             <td align="center">
                 <a href = "https://www.java.com" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "50" /> </a>
             </td>
+            <td align="center">
+                <a href="nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+          </a>
+            </td>
         </tr>
         <tr align="center">
             <td>
@@ -59,6 +63,9 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
             </td>
             <td>
                 <sup><strong>Java</strong></sup>
+            </td>
+            <td>
+                <sup><strong>Nodejs</strong></sup>
             </td>
         </tr>
         <tr>
