@@ -1,6 +1,9 @@
 # <p align = "center"><a href="https://readme-typing-svg.demolab.com/demo/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=102&color=980DE6&vCenter=true&width=480&lines=%E2%9C%A8+Ol%C3%A1%2C+sou+Aline+Bevilacqua%2C;%E2%9C%A8+Desenvolvedora+Front-end!" alt="Typing SVG" /></a> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg0ZWU5M2JlNWM1NzQ1ZTcxODEyMzlhZTkwODc3M2VjOGZlYzE1NyZjdD1z/WK2RKTHwsD9NS/giphy.gif" width = "40"></p>
 
 <p align = "center">
+    <a href="https://aliine98.github.io" target="_blank">
+        <img alt="Portfolio link" align="center" src = "https://img.shields.io/badge/portfolio-8A2BE2?style=for-the-badge">
+    </a>
     <a href="https://www.linkedin.com/in/aline-bevilacqua/" target="_blank">
         <img alt="Linkedin link" align="center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
