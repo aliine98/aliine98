@@ -75,7 +75,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
                 <a href = "https://www.typescriptlang.org/" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typescript" width = "50" /> </a> 
             </td>
             <td align="center">
-                <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /></a>
+                <a href = "https://getbootstrap.com" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "50""/> </a>
             </td>
         </tr>
         <tr>
@@ -88,16 +88,6 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
             <td>
                 <sup><strong>TypeScript</strong></sup>
             </td>
-            <td>
-                <sup><strong>Nodejs</strong></sup>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href = "https://getbootstrap.com" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "50""/> </a>
-            </td>
-        </tr>
-        <tr>
             <td>
                 <sup><strong>Bootstrap</strong></sup>
             </td>
