@@ -118,6 +118,9 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
     <code><a href = "https://reactjs.org/" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40"/> </a> </code>
     <code><a href = "https://redux.js.org" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt = "redux" width = "40" height = "40"/> </a> </code>
     <code><a href = "https://tailwindcss.com/" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt = "tailwind" width = "40" height = "40"/></a></code>
+    <code><a href = "https://www.ruby-lang.org/pt/" target = "_blank" rel = "noopener"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt = "ruby" width = "38" height = "38"/></a></code>
+    <code><a href = "https://www.lua.org/portugues.html" target = "_blank" rel = "noopener"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt = "lua" width = "40" height = "40"/></a></code>
+    <code><a href = "https://www.php.net/" target = "_blank" rel = "noopener"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt = "php" width = "40" height = "40"/></a></code>
 </p>
  <br><br>
 
