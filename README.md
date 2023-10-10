@@ -127,7 +127,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-52-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-31-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-86.7%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -135,11 +135,11 @@ Meus hobbies são ouvir músicas, jogar jogos variados, assistir animes e livest
 
 > 📦 39.1 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 348 Contribuições no ano de 2023
+> 🏆 350 Contribuições no ano de 2023
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 24 Repositórios Públicos 
+> 📜 25 Repositórios Públicos 
  > 
 > 🔑 2 Repositórios Privados 
  > 
@@ -170,25 +170,25 @@ Domingo                  63 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-HTML                     10 hrs 13 mins      ████████████░░░░░░░░░░░░░   49.83 % 
-Python                   6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
-CSS                      2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-XML                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+HTML                     6 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.97 % 
+Python                   5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.84 % 
+CSS                      2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+XML                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editores: 
-VS Code                  20 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-ElasNaTech-atividades    17 hrs 44 mins      ██████████████████████░░░   86.45 % 
-portfolio                2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+ElasNaTech-atividades    13 hrs 10 mins      █████████████████████░░░░   83.05 % 
+portfolio                2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 
 💻 Sistema operacional: 
-Windows                  20 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/10/2023 00:50:35 UTC
+ Last Updated on 10/10/2023 00:49:58 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
