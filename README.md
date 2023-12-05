@@ -95,12 +95,18 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, assistir
                 <a href = "https://www.typescriptlang.org/" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typescript" width = "50" /> </a> 
             </td>
             <td>
+                <a href = "https://tailwindcss.com/" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt = "tailwind" width = "50" height = "50"/></a>
+            </td>
+            <td>
                 <a href = "https://www.python.org" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "50"> </a>
             </td>
         </tr>
         <tr align="center">
             <td>
                 <sup><strong>Typescript</strong></sup>
+            </td>
+            <td>
+                <sup><strong>Tailwind</strong></sup>
             </td>
             <td>
                 <sup><strong>Python</strong></sup>
@@ -119,7 +125,6 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, assistir
     <code><a href = "https://nextjs.org/" target = "_blank" rel = "noopener"> <img src = "https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt = "nextjs" width = "40" height = "40"/> </a></code>
     <code><a href = "https://vuejs.org/" target = "_blank" rel = "noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width = "40" height = "40"/> </a> </code>
     <code><a href = "https://reactjs.org/" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40"/> </a> </code>
-    <code><a href = "https://tailwindcss.com/" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt = "tailwind" width = "40" height = "40"/></a></code>
     <code><a href = "https://www.ruby-lang.org/pt/" target = "_blank" rel = "noopener"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt = "ruby" width = "38" height = "38"/></a></code>
     <code><a href = "https://www.lua.org/portugues.html" target = "_blank" rel = "noopener"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt = "lua" width = "40" height = "40"/></a></code>
     <code><a href = "https://www.php.net/" target = "_blank" rel = "noopener"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt = "php" width = "40" height = "40"/></a></code>
