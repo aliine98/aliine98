@@ -134,7 +134,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, assistir
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-124.9%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -177,21 +177,22 @@ Domingo                  66 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-HTML                     4 hrs 35 mins       ██████████████████░░░░░░░   72.61 % 
-TypeScript               1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+HTML                     5 hrs 40 mins       █████████████████░░░░░░░░   66.85 % 
+TypeScript               2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editores: 
-VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-angular-blog             6 hrs 19 mins       █████████████████████████   100.00 % 
+angular-blog             8 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/01/2024 00:52:35 UTC
+ Last Updated on 07/01/2024 00:57:53 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
