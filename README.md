@@ -97,9 +97,6 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, assistir
             <td>
                 <a href = "https://tailwindcss.com/" target = "_blank" rel = "noopener"> <img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt = "tailwind" width = "50" height = "50"/></a>
             </td>
-            <td>
-                <a href = "https://www.python.org" target = "_blank" rel = "noopener"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "50"> </a>
-            </td>
         </tr>
         <tr align="center">
             <td>
@@ -107,9 +104,6 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, assistir
             </td>
             <td>
                 <sup><strong>Tailwind</strong></sup>
-            </td>
-            <td>
-                <sup><strong>Python</strong></sup>
             </td>
         </tr>
     </table>
