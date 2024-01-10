@@ -128,15 +128,15 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, assistir
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-6-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-124.9%20thousand%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-120.3%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 60.4 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 3 Contribuições no ano de 2024
+> 🏆 5 Contribuições no ano de 2024
  > 
 > 💼 Aberto para contratação
  > 
@@ -147,21 +147,21 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, assistir
 **Eu sou noturno 🦉** 
 
 ```text
-🌞 Manhã                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-🌆 Tarde                  227 commits         █████████░░░░░░░░░░░░░░░░   36.03 % 
-🌃 Noite                  204 commits         ████████░░░░░░░░░░░░░░░░░   32.38 % 
-🌙 Madrugada              188 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌞 Manhã                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+🌆 Tarde                  220 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌃 Noite                  185 commits         ████████░░░░░░░░░░░░░░░░░   30.63 % 
+🌙 Madrugada              188 commits         ████████░░░░░░░░░░░░░░░░░   31.13 % 
 ```
 📅 **Sou mais produtivo em Terça-Feira** 
 
 ```text
-Segunda-Feira            69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Terça-Feira              145 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Quarta-Feira             56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Quinta-Feira             103 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Sexta-Feira              97 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Sábado                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Domingo                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Segunda-Feira            69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Terça-Feira              131 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Quarta-Feira             55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Quinta-Feira             98 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Sexta-Feira              97 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sábado                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Domingo                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 
 
@@ -186,7 +186,7 @@ Windows                  7 hrs 38 mins       ███████████�
 ```
 
 
- Last Updated on 09/01/2024 00:54:12 UTC
+ Last Updated on 10/01/2024 00:54:23 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
