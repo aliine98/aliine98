@@ -14,7 +14,7 @@
     <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=for-the-badge&color=bf0f47&logo=github&logoColor=white">
 </p><br>
 
-<a href="https://storyset.com/"><img src="./assets/coding-amico.svg" width="400" align="right"></a>
+<a href="https://storyset.com/"><img src="./assets/coding-amico.svg" width="300" align="right"></a>
 
 <div align="left">
 <br>
