@@ -1,4 +1,4 @@
-# <p align = "center"><a href="https://readme-typing-svg.demolab.com/demo/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=102&color=980DE6&vCenter=true&width=480&lines=%E2%9C%A8+Ol%C3%A1%2C+sou+Aline+Bevilacqua%2C;%E2%9C%A8+Desenvolvedora+Front-end!" alt="Typing SVG" /></a> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg0ZWU5M2JlNWM1NzQ1ZTcxODEyMzlhZTkwODc3M2VjOGZlYzE1NyZjdD1z/WK2RKTHwsD9NS/giphy.gif" width = "40"></p>
+# <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Mono&size=28&duration=4000&pause=1000&color=980DE6&vCenter=true&random=false&width=480&lines=%E2%9C%A8Ol%C3%A1%2C+sou+Aline+Bevilacqua;%E2%9C%A8Desenvolvedora+Web+Frontend!" alt="Typing SVG" /></a></p>
 
 <p align = "center">
     <a href="https://aliine98.github.io" target="_blank">
@@ -9,9 +9,6 @@
     </a>
     <a href="https://discord.com/" target="_blank">
         <img alt="Discord tag: aliine_b" align="center" src="https://img.shields.io/badge/-aliine__b-5865f2?style=flat-square&logo=Discord&logoColor=FFF" height="28">
-    </a>
-    <a href="https://myanimelist.net/profile/AyumiiK" target="_blank">
-        <img alt="My Anime List profile link" align="center" src = "https://img.shields.io/static/v1?style=for-the-badge&message=MyAnimeList&color=2E51A2&logo=MyAnimeList&logoColor=FFFFFF&label=">
     </a>
     <a href="https://wakatime.com/@aliine"><img src="https://wakatime.com/badge/user/d705bdc6-1244-4026-9380-8de8c1599f8d.svg?style=for-the-badge" alt="Total time coded since Jun 5 2023" align="center"/></a>
     <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/Aliine98?style=for-the-badge&color=bf0f47&logo=github&logoColor=white">
@@ -101,18 +98,13 @@ Windows                  7 hrs 27 mins       ███████████�
  Last Updated on 24/01/2024 00:55:13 UTC
 <!--END_SECTION:waka-->
  
-## ⚡ Github Status <img src="https://media0.giphy.com/media/tFqKgC5KSoZRm/200w.webp?cid=ecf05e47hcla6vyid9ijcrxlkfi0j7r01tyr61khwveug5qy&rid=200w.webp&ct=s" width="65">
+## ⚡ Github Status
 
 <p align="center"><img src="https://my-github-readme-stats-git-master-aliine98.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src = "https://my-github-readme-stats-git-master-aliine98.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=my-github-readme-stats,github-readme-streak-stats,ajax-com-js-puro" alt = "aliine98" /></p>
 
 <p align="center"><img src = "https://github-readme-streak-stats-aliine98.vercel.app/?user=aliine98&theme=default&theme=radical" alt = "aliine98" /></p>
 
-<div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aliine98/Aliine98/output/github-contribution-grid-snake.svg">
-</picture></div>
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical&column=4" alt="aliine98" /></a> </p>
 
-<p align = "center"><img src = "https://media4.giphy.com/media/jp74BJUjo1aifN1Rtn/giphy.gif?cid=ecf05e47kau4k3us5927t48mqlbqy35pxvq252k34i4x038g&rid=giphy.gif&ct=g" width = "600"></p>
+<p align="center"><img src="https://media4.giphy.com/media/C1bBFL2dMQxA4/giphy.gif?cid=ecf05e47z7xqxd7gboyuplq95r7v869x9bi8msk1upllpme2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="700"></p>
