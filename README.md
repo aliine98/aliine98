@@ -75,21 +75,20 @@ Domingo                  85 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               28 mins             ███████████████████░░░░░░   74.17 % 
-HTML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 🐱‍💻 Projetos: 
-pokedex-vite-ts          38 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 07/02/2024 00:48:28 UTC
+ Last Updated on 08/02/2024 00:49:41 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
