@@ -75,20 +75,20 @@ Domingo                  95 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Java                     1 hr 33 mins        █████████████████████████   100.00 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+Intellijidea             1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-Nenhuma atividade rastreada esta semana
+java-collections         1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/02/2024 00:51:05 UTC
+ Last Updated on 14/02/2024 00:51:06 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
