@@ -75,20 +75,24 @@ Domingo                  96 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+TypeScript               31 mins             ████████████░░░░░░░░░░░░░   49.81 % 
+CSS                      17 mins             ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+JavaScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-Nenhuma atividade rastreada esta semana
+artes-marciais2          1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/03/2024 00:53:46 UTC
+ Last Updated on 11/03/2024 00:51:29 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
