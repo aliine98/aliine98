@@ -32,7 +32,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-13-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-210.0%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -75,23 +75,23 @@ Domingo                  155 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-JavaScript               2 hrs 45 mins       ████████████████████████░   94.12 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               3 hrs 23 mins       ████████████████████████░   95.17 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editores: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-maispraTi-fullstack-exerc2 hrs 55 mins       █████████████████████████   100.00 % 
+maispraTi-fullstack-exerc3 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2024 00:53:35 UTC
+ Last Updated on 11/05/2024 00:52:54 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
