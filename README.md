@@ -75,20 +75,20 @@ Domingo                  183 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-JavaScript               32 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 🐱‍💻 Projetos: 
-maispraTi-fullstack-exerc32 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 08/06/2024 00:56:06 UTC
+ Last Updated on 09/06/2024 01:01:04 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
