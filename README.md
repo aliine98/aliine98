@@ -34,17 +34,17 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-227.5%20thousand%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-228.3%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 69.7 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 199 Contribuições no ano de 2024
+> 🏆 202 Contribuições no ano de 2024
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 33 Repositórios Públicos 
+> 📜 34 Repositórios Públicos 
  > 
 > 🔑 4 Repositórios Privados 
  > 
@@ -52,20 +52,20 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 
 ```text
 🌞 Manhã                  51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-🌆 Tarde                  431 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
-🌃 Noite                  601 commits         ███████████░░░░░░░░░░░░░░   45.19 % 
-🌙 Madrugada              247 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+🌆 Tarde                  431 commits         ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌃 Noite                  603 commits         ███████████░░░░░░░░░░░░░░   45.27 % 
+🌙 Madrugada              247 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 ```
 📅 **Sou mais produtivo em Terça-Feira** 
 
 ```text
-Segunda-Feira            144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Terça-Feira              272 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Quarta-Feira             142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Quinta-Feira             170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Sexta-Feira              175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Sábado                   244 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Domingo                  183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Segunda-Feira            146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Terça-Feira              272 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Quarta-Feira             142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Quinta-Feira             170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Sexta-Feira              175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Sábado                   244 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Domingo                  183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 
@@ -75,20 +75,21 @@ Domingo                  183 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+JavaScript               16 mins             █████████████████████████   99.47 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-Nenhuma atividade rastreada esta semana
+mulheres-tecnologia      16 mins             █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/06/2024 00:56:57 UTC
+ Last Updated on 12/06/2024 00:57:11 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
