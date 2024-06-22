@@ -32,7 +32,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-32-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-34-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-261.1%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -40,11 +40,11 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 
 > 📦 70.0 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 215 Contribuições no ano de 2024
+> 🏆 214 Contribuições no ano de 2024
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 35 Repositórios Públicos 
+> 📜 34 Repositórios Públicos 
  > 
 > 🔑 4 Repositórios Privados 
  > 
@@ -75,26 +75,26 @@ Domingo                  200 commits         ████░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-JavaScript               1 hr 28 mins        ███████████████████░░░░░░   76.15 % 
-HTML                     26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               2 hrs 30 mins       ███████████████████░░░░░░   75.74 % 
+HTML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editores: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-mulheres-tecnologia      1 hr 24 mins        ██████████████████░░░░░░░   73.27 % 
-portfolio-freela         27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+mulheres-tecnologia      2 hrs 48 mins       █████████████████████░░░░   84.48 % 
+portfolio-freela         27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Sistema operacional: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2024 00:56:12 UTC
+ Last Updated on 22/06/2024 00:56:05 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
