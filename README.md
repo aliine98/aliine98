@@ -40,8 +40,6 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 
 > 📦 70.8 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 233 Contribuições no ano de 2024
- > 
 > 💼 Aberto para contratação
  > 
 > 📜 35 Repositórios Públicos 
@@ -75,23 +73,20 @@ Domingo                  216 commits         ████░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   1 hr 27 mins        █████████████████████████   98.08 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-PyCharm                  1 hr 29 mins        █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 🐱‍💻 Projetos: 
-python-automacao         1 hr 28 mins        █████████████████████████   99.14 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 21/07/2024 01:03:12 UTC
+ Last Updated on 22/07/2024 01:00:49 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
