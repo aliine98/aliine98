@@ -32,7 +32,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-5-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-345.3%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -88,7 +88,7 @@ Windows                  4 mins              ███████████�
 ```
 
 
- Last Updated on 27/07/2024 00:58:07 UTC
+ Last Updated on 28/07/2024 01:03:43 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
