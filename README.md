@@ -32,7 +32,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-345.3%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -75,20 +75,21 @@ Domingo                  216 commits         ████░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   4 mins              █████████████████████████   100.00 % 
+Python                   19 mins             █████████████████████████   100.00 % 
 
 🔥 Editores: 
-PyCharm                  4 mins              █████████████████████████   100.00 % 
+PyCharm                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-python-automacao         4 mins              █████████████████████████   100.00 % 
+pythonProject            15 mins             ███████████████████░░░░░░   76.24 % 
+python-automacao         4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 
 💻 Sistema operacional: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/07/2024 01:00:45 UTC
+ Last Updated on 30/07/2024 00:59:12 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
