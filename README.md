@@ -40,6 +40,8 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 
 > 📦 71.2 kB Usado no armazenamento do GitHub 
  > 
+> 🏆 268 Contribuições no ano de 2024
+ > 
 > 💼 Aberto para contratação
  > 
 > 📜 37 Repositórios Públicos 
@@ -73,24 +75,20 @@ Domingo                  216 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-XML                      4 mins              █████████████████░░░░░░░░   67.40 % 
-Kotlin                   2 mins              ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-IntelliJ IDEA            7 mins              █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 🐱‍💻 Projetos: 
-kotlin-app               6 mins              ████████████████████████░   96.83 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-My Application           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 25/08/2024 01:05:27 UTC
+ Last Updated on 26/08/2024 01:01:00 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
