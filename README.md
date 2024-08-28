@@ -40,6 +40,8 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 
 > 📦 71.2 kB Usado no armazenamento do GitHub 
  > 
+> 🏆 268 Contribuições no ano de 2024
+ > 
 > 💼 Aberto para contratação
  > 
 > 📜 37 Repositórios Públicos 
@@ -86,7 +88,7 @@ Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 27/08/2024 01:01:26 UTC
+ Last Updated on 28/08/2024 01:01:55 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
