@@ -38,7 +38,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 71.3 kB Usado no armazenamento do GitHub 
+> 📦 71.2 kB Usado no armazenamento do GitHub 
  > 
 > 🏆 298 Contribuições no ano de 2024
  > 
@@ -93,7 +93,7 @@ Windows                  15 hrs 18 mins      ███████████�
 ```
 
 
- Last Updated on 13/09/2024 01:03:38 UTC
+ Last Updated on 14/09/2024 01:03:04 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
