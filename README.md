@@ -25,7 +25,7 @@ Estudei por conta própria inglês (nível intermediário).
 Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livros, assistir animes e livestreams.
 
 ### 💻 Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,mysql,angular,next,nuxt,express,mongo,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,tailwind,ts,mysql,hibernate,angular,next,nuxt,firebase,express,mongo&perline=5)](https://skillicons.dev)
 </div>
 <br>
 
