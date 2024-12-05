@@ -105,7 +105,7 @@ Windows                  1 hr 52 mins        ███████░░░░�
 
 <p align="center"><img src="https://my-github-readme-stats-aliine98.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src="https://my-github-readme-stats-aliine98.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=my-github-readme-stats,my-github-readme-streak-stats,github-readme-streak-stats,ajax-com-js-puro" alt="aliine98" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=aliine98&theme=radical" alt="aliine98" /></p>
+<p align="center"><img src="https://my-github-readme-streak-stats.vercel.app?user=aliine98&theme=radical" alt="aliine98" /></p>
 
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=aliine98&theme=radical&column=4" alt="aliine98" /></a> </p>
