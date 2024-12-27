@@ -103,7 +103,7 @@ Linux                    5 hrs 22 mins       ████████░░░�
  
 ## ⚡ Github Status
 
-<p align="center"><img src="https://my-github-readme-stats-aliine98.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src="https://my-github-readme-stats-aliine98.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=my-github-readme-stats,my-github-readme-streak-stats,github-readme-streak-stats,ajax-com-js-puro" alt="aliine98" /></p>
+<p align="center"><img src="https://my-github-readme-stats-aliine98.vercel.app/api?username=aliine98&show_icons=true&locale=en&theme=radical" alt="aliine98" />&nbsp;&nbsp;<img src="https://my-github-readme-stats-aliine98.vercel.app/api/top-langs?username=aliine98&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=my-github-readme-stats,my-github-readme-streak-stats,github-readme-streak-stats,ajax-com-js-puro&hide=c%2B%2B,cmake&langs_count=8" alt="aliine98" /></p>
 
 <p align="center"><img src="https://my-github-readme-streak-stats.vercel.app?user=aliine98&theme=radical" alt="aliine98" /></p>
 
