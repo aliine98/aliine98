@@ -32,7 +32,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-464.1%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -75,23 +75,25 @@ Domingo                  362 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Java                     10 hrs 54 mins      ███████████████████░░░░░░   76.63 % 
-HTML                     3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Java                     16 hrs 56 mins      ██████████████████░░░░░░░   72.97 % 
+HTML                     6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editores: 
-Eclipse                  14 hrs 13 mins      █████████████████████████   100.00 % 
+Eclipse                  23 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-PortalIsoEngine          8 hrs 43 mins       ███████████████░░░░░░░░░░   61.35 % 
-PortalISO-RequisitosISO905 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.53 % 
-PortalISO-GED-Word       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+PortalIsoEngine          17 hrs 11 mins      ███████████████████░░░░░░   74.03 % 
+PortalISO-RequisitosISO905 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+PortalISO-GED-Word       26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+BibliotecaPortalIso      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Sistema operacional: 
-Linux                    14 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/10/2025 01:12:05 UTC
+ Last Updated on 09/10/2025 01:13:15 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
