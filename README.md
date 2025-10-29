@@ -32,7 +32,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-4-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-464.1%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -75,23 +75,21 @@ Domingo                  362 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Java                     12 hrs 50 mins      ███████████████████████░░   91.74 % 
-HTML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Java                     6 hrs 5 mins        ██████████████████████░░░   86.77 % 
+HTML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 
 🔥 Editores: 
-Eclipse                  14 hrs              █████████████████████████   100.00 % 
+Eclipse                  7 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projetos: 
-PortalISO-RequisitosISO907 hrs 1 min         █████████████░░░░░░░░░░░░   50.19 % 
-PortalISO-GED-Word       6 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.86 % 
-PortalIsoEngine          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+PortalISO-RequisitosISO907 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    14 hrs              █████████████████████████   100.00 % 
+Linux                    7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2025 01:14:14 UTC
+ Last Updated on 29/10/2025 01:19:12 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
