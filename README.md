@@ -32,7 +32,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 ## 🚀 Wakatime Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-4-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-464.1%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -48,8 +48,51 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
  > 
 > 🔑 4 Repositórios Privados 
  > 
+**Eu sou noturno 🦉** 
 
- Last Updated on 02/11/2025 01:21:35 UTC
+```text
+🌞 Manhã                  306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+🌆 Tarde                  722 commits         ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+🌃 Noite                  1289 commits        ████████████░░░░░░░░░░░░░   49.79 % 
+🌙 Madrugada              272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+```
+📅 **Sou mais produtivo em Quinta-Feira** 
+
+```text
+Segunda-Feira            260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Terça-Feira              379 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Quarta-Feira             241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Quinta-Feira             489 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Sexta-Feira              390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sábado                   468 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Domingo                  362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+Java                     12 hrs 37 mins      ███████████████████████░░   93.11 % 
+HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editores: 
+Eclipse                  13 hrs 33 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projetos: 
+PortalISO-GED-Word       5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
+PortalIsoEngine          5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
+PortalISO-RequisitosISO902 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+
+💻 Sistema operacional: 
+Linux                    13 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 03/11/2025 01:20:17 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
