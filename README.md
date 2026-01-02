@@ -34,7 +34,7 @@ Meus hobbies são ouvir músicas, jogar jogos variados, fazer academia, ler livr
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-505.5%20thousand%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-505.50%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
@@ -88,7 +88,7 @@ Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 01/01/2026 01:41:27 UTC
+ Last Updated on 02/01/2026 01:24:40 UTC
 <!--END_SECTION:waka-->
  
 ## ⚡ Github Status
